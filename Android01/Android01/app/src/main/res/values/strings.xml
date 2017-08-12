@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android01</string>
+    <string name="LabelUsuario">Usuario:</string>
+    <string name="LabelPassword">Password:</string>
+    <string name="LabelAceptar">Aceptar</string>
+    <string name="LabelEntar">Entrar</string>
+    <string name="LabelRegistrase">Regitrarse!</string>
+    <string name="AlertDialogTitle">Mensaje de la aplicacion!</string>
+    <string name="ErrorCredenciales">El usuario y/o password no es válido.</string>
+</resources>
